@@ -2,16 +2,6 @@
 
 Welcome to **Dragon Hunter**, an exciting arcade-style game where you battle against a fearsome dragon! This game can be played solo or with a friend in two-player mode. Your objective is to navigate the map, collect essential items, and defeat the dragon. But beware—the dragon is powerful, and every encounter will cost you some health!
 
-## **Table of Contents**
-
-- [Game Description](#game-description)
-- [Gameplay Instructions](#gameplay-instructions)
-- [Features](#features)
-- [Installation](#installation)
-- [How to Play](#how-to-play)
-- [Controls](#controls)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## **Game Description**
 
@@ -39,19 +29,16 @@ Welcome to **Dragon Hunter**, an exciting arcade-style game where you battle aga
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/dragon-hunter.git
+   git clone https://github.com/yourusername/Dragon-Hunter.git
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd dragon-hunter
+   cd Dragon-Hunter
    ```
-3. **Compile the game**:
+
+3. **Run the game**:
    ```bash
-   javac src/*.java
-   ```
-4. **Run the game**:
-   ```bash
-   java src.Main
+   javac src/Game/GameOS.java
    ```
 
 ## **How to Play**
